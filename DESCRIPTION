@@ -18,7 +18,9 @@ Description: A comprehensive framework for analyzing positive continuous data ba
 License: GPL (>= 3)
 Encoding: UTF-8
 Imports: 
+    crayon,
     distr,
+    Formula,
     gamlss,
     gamlss.dist,
     ghyp,
