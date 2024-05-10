@@ -2,6 +2,7 @@
 
 export(arma)
 export(cluster)
+export(control_fit)
 export(dbcca)
 export(dbchp)
 export(dbcla)
